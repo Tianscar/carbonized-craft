@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.tianscar.carbonizedcraft.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"CarbonizedCraftServerMixin",
+		"ArmorMaterialsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

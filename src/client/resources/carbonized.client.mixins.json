@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.tianscar.carbonizedcraft.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"CarbonizedCraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

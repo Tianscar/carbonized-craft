@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "carbonized",
+	"version": "0.0.1",
+	"name": "Carbonized",
+	"description": "This mod is developed for normal survive mode players to achieve reduced difficulty and more fun!",
+	"authors": [
+		"Karstian Lee"
+	],
+	"contact": {
+		"homepage": "https://carbonizedcraft.tianscar.com/",
+		"sources": "https://github.com/Tianscar/carbonized-craft"
+	},
+	"license": "GPL-3.0",
+	"icon": "assets/carbonized/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.tianscar.carbonizedcraft.CarbonizedCraft"
+		],
+		"client": [
+			"com.tianscar.carbonizedcraft.CarbonizedCraftClient"
+		]
+	},
+	"mixins": [
+		"carbonized.mixins.json",
+		{
+			"config": "carbonized.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

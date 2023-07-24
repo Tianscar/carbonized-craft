@@ -1,0 +1,23 @@
+{
+  "item.minecraft.tipped_arrow.effect.decay": "Arrow of Decay",
+  "item.minecraft.potion.effect.decay": "Potion of Decay",
+  "item.minecraft.splash_potion.effect.decay": "Splash Potion of Decay",
+  "item.minecraft.lingering_potion.effect.decay": "Lingering Potion of Decay",
+  "item.minecraft.tipped_arrow.effect.resistance": "Arrow of Resistance",
+  "item.minecraft.potion.effect.resistance": "Potion of Resistance",
+  "item.minecraft.splash_potion.effect.resistance": "Splash Potion of Resistance",
+  "item.minecraft.lingering_potion.effect.resistance": "Lingering Potion of Resistance",
+  "item.minecraft.tipped_arrow.effect.long_resistance": "Arrow of Resistance",
+  "item.minecraft.potion.effect.long_resistance": "Potion of Resistance",
+  "item.minecraft.splash_potion.effect.long_resistance": "Splash Potion of Resistance",
+  "item.minecraft.lingering_potion.effect.long_resistance": "Lingering Potion of Resistance",
+  "item.minecraft.tipped_arrow.effect.strong_resistance": "Arrow of Resistance",
+  "item.minecraft.potion.effect.strong_resistance": "Potion of Resistance",
+  "item.minecraft.splash_potion.effect.strong_resistance": "Splash Potion of Resistance",
+  "item.minecraft.lingering_potion.effect.strong_resistance": "Lingering Potion of Resistance",
+
+  "enchantment.carbonized.potential": "Potential",
+
+  "item.carbonized.netherite_horse_armor": "Netherite Horse Armor",
+  "item.carbonized.chainmail_horse_armor": "Chainmail Horse Armor"
+}

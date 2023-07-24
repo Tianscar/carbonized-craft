@@ -1,0 +1,23 @@
+{
+  "item.minecraft.tipped_arrow.effect.decay": "衰变之箭",
+  "item.minecraft.potion.effect.decay": "衰变药水",
+  "item.minecraft.splash_potion.effect.decay": "喷溅型衰变药水",
+  "item.minecraft.lingering_potion.effect.decay": "滞留型衰变药水",
+  "item.minecraft.tipped_arrow.effect.resistance": "抗性之箭",
+  "item.minecraft.potion.effect.resistance": "抗性药水",
+  "item.minecraft.splash_potion.effect.resistance": "喷溅型抗性药水",
+  "item.minecraft.lingering_potion.effect.resistance": "滞留型抗性药水",
+  "item.minecraft.tipped_arrow.effect.long_resistance": "抗性之箭",
+  "item.minecraft.potion.effect.long_resistance": "抗性药水",
+  "item.minecraft.splash_potion.effect.long_resistance": "喷溅型抗性药水",
+  "item.minecraft.lingering_potion.effect.long_resistance": "滞留型抗性药水",
+  "item.minecraft.tipped_arrow.effect.strong_resistance": "抗性之箭",
+  "item.minecraft.potion.effect.strong_resistance": "抗性药水",
+  "item.minecraft.splash_potion.effect.strong_resistance": "喷溅型抗性药水",
+  "item.minecraft.lingering_potion.effect.strong_resistance": "滞留型抗性药水",
+
+  "enchantment.carbonized.potential": "潜能",
+
+  "item.carbonized.netherite_horse_armor": "下界合金马铠",
+  "item.carbonized.chainmail_horse_armor": "锁链马铠"
+}

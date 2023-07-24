@@ -37,7 +37,7 @@ public class ArmorMaterialsMixin {
     @Inject(method = "<clinit>()V", at = @At("TAIL"))
     private static void clinit(CallbackInfo info) {
         field_7888[1] = CHAIN = (ArmorMaterials) (Object) new ArmorMaterialsMixin("CHAIN", 1,
-                "chainmail", 15, (EnumMap) Util.make(new EnumMap(ArmorItem.Type.class), (map) -> {
+                "chainmail", 15, Util.make(new EnumMap(ArmorItem.Type.class), (map) -> {
             map.put(ArmorItem.Type.BOOTS, 1);
             map.put(ArmorItem.Type.LEGGINGS, 4);
             map.put(ArmorItem.Type.CHESTPLATE, 5);

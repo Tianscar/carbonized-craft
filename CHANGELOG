@@ -1,0 +1,11 @@
+v0.0.1
+
+1 Iron Ingot + 2 Iron Nugget = 1 (original) -> 2 Chain
+Repairment items of Chainmail armors changed: Iron Ingot -> Chain
+Added Chainmail Horse Armor, can be crafted with 7 Chain
+Added craft recipes for Chainmail armors: use chains to craft them
+Added Netherite Horse Armor, will never natural generated from world, but can be upgraded from Diamond Horse Armor
+Added Potential enchantment (for Trident), not compatible with Impaling, other just like Sharpness
+Added Potion of Decay/Resistance, which need to brew with Wither Skull/Golden Apple
+Added craft recipe for Enchanted Golden Apple: 8 Gold Blocks and 1 Apple
+Added Charcoal Block, can be crafted or vice-versa with 9 Charcoal

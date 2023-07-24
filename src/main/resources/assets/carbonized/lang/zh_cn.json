@@ -19,5 +19,7 @@
   "enchantment.carbonized.potential": "潜能",
 
   "item.carbonized.netherite_horse_armor": "下界合金马铠",
-  "item.carbonized.chainmail_horse_armor": "锁链马铠"
+  "item.carbonized.chainmail_horse_armor": "锁链马铠",
+
+  "block.carbonized.charcoal_block": "木炭块"
 }

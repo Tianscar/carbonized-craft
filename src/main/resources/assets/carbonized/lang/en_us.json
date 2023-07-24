@@ -19,5 +19,7 @@
   "enchantment.carbonized.potential": "Potential",
 
   "item.carbonized.netherite_horse_armor": "Netherite Horse Armor",
-  "item.carbonized.chainmail_horse_armor": "Chainmail Horse Armor"
+  "item.carbonized.chainmail_horse_armor": "Chainmail Horse Armor",
+
+  "block.carbonized.charcoal_block": "Block of Charcoal"
 }

@@ -1,8 +1,10 @@
 package com.tianscar.carbonizedcraft;
 
+import com.tianscar.carbonizedcraft.block.Blocks;
 import com.tianscar.carbonizedcraft.enchantment.Enchantments;
 import com.tianscar.carbonizedcraft.item.Items;
 import com.tianscar.carbonizedcraft.potion.Potions;
+import com.tianscar.carbonizedcraft.recipe.BrewingRecipes;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -24,9 +26,11 @@ public class CarbonizedCraft implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("!!! CARBONIZING !!!");
+		Blocks.register();
 		Items.register();
 		Enchantments.register();
 		Potions.register();
+		BrewingRecipes.register();
 		LOGGER.info("!!! CARBONIZED !!!");
 	}
 
